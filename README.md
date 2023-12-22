@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Naviiiti
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning Machine Learning
+- 👋 Hi, I’m Navidreza
+- ✨ I'm a Mechanical Engineering student
+- 👀 I’m interested in Deep Learning, Vibrations, Nonlinear Systems
+- 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
